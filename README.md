@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamil2005-coder/practise/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tamil2005-coder/practise/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Tamil2005-coder/practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tamil2005-coder/practise/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Tamil2005-coder/practise/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
