@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamil2005-coder/practise/tree/master/0001-two-sum) |
+| [0890-lemonade-change](https://github.com/Tamil2005-coder/practise/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Tamil2005-coder/practise/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
