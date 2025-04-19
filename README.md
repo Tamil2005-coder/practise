@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Tamil2005-coder/practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tamil2005-coder/practise/tree/master/0070-climbing-stairs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Tamil2005-coder/practise/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Tamil2005-coder/practise/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
