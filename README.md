@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamil2005-coder/practise/tree/master/0001-two-sum) |
+| [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
