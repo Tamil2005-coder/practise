@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tamil2005-coder/practise/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Tamil2005-coder/practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Tamil2005-coder/practise/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Tamil2005-coder/practise/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Tamil2005-coder/practise/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Tamil2005-coder/practise/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2630-alternating-digit-sum](https://github.com/Tamil2005-coder/practise/tree/master/2630-alternating-digit-sum) |
@@ -64,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Tamil2005-coder/practise/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Tamil2005-coder/practise/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Tamil2005-coder/practise/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
