@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Tamil2005-coder/practise/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 | [0978-valid-mountain-array](https://github.com/Tamil2005-coder/practise/tree/master/0978-valid-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tamil2005-coder/practise/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
