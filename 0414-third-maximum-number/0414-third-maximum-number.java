@@ -1,9 +1,7 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        // Use variables to store the first, second, and third maximum values
         Long firstmax = Long.MIN_VALUE, secmax = Long.MIN_VALUE, thirdmax = Long.MIN_VALUE;
-        
-        // Counter to keep track of the distinct numbers found
+      
         int count = 0;
         
         for (int num : nums) {
