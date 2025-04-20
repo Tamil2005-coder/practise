@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamil2005-coder/practise/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/Tamil2005-coder/practise/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Tamil2005-coder/practise/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Tamil2005-coder/practise/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Tamil2005-coder/practise/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Tamil2005-coder/practise/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Tamil2005-coder/practise/tree/master/0917-boats-to-save-people) |
 ## Geometry
